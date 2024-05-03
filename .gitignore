@@ -1,6 +1,7 @@
 ./model/*
 .idea
-
+.log
+*.model
 # Prerequisites
 *.d
 
